@@ -32,7 +32,7 @@
 |  8  | 5444        |   123      | $900  | 2019-03-14 13:32:16 |
 
 
-Ouput example:
+Output example:
 
 | year | month | reservation | total |
 | ---  |:-----:| -----------:| -----:|
@@ -54,4 +54,4 @@ Ouput example:
 ### this pass an instance of error as a parameter, this error should be used inside the callback because the callback is outside of the parent scope so it would not be catched outside the callback body ###
 
 ### POSTMAN PROJECT CAN BE DOWNLOADED FROM THIS URL
-[POSTMAN-PROJECT] https://drive.google.com/file/d/1z2tcetI8YaWU3i9V53QR9lxLlLSjJxkR/view?usp=sharing
+[POSTMAN-PROJECT] (https://drive.google.com/file/d/1z2tcetI8YaWU3i9V53QR9lxLlLSjJxkR/view?usp=sharing)
